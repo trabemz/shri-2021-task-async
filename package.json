@@ -1,0 +1,25 @@
+{
+	"name": "shri-2021-task-async",
+	"version": "1.0.0",
+	"description": "Reduce function using the asynchronous API from the Homework object.",
+	"main": "playground.js",
+	"scripts": {
+		"playground": "node ./playground.js",
+		"test": "jest"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/trabemz/shri-2021-task-async.git"
+	},
+	"author": "Anastasia Zamkovskaya",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/trabemz/shri-2021-task-async/issues"
+	},
+	"homepage": "https://github.com/trabemz/shri-2021-task-async#readme",
+	"devDependencies": {
+		"eslint": "^8.0.1",
+		"jest": "^27.2.5",
+		"eslint-plugin-jest": "^25.1.0"
+	}
+}
